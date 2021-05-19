@@ -1,0 +1,24 @@
+{
+  "name": "clickhouse",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "rebiss",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "clickhouse": "^2.4.0",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "query-string": "^7.0.0"
+  },
+  "scripts": {
+    "start": "nodemon main.js",
+    "dev:start": "main.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
