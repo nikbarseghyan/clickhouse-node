@@ -11,5 +11,4 @@ app.use(json())
 app.use(urlencoded({extended: true}))
 app.use(compression())
 app.use('/', router)
-
 app.listen(port, () => console.log(`Server is runing ${port}`))
