@@ -46,6 +46,6 @@ $yarn start
 
 <p align="center">
 <h1 align="center"> Recurse </h1>
-    [Clickhous](https://clickhouse.tech/)
-    [Cube Analytical API Platform](https://cube.dev/)
+<a href="https://clickhouse.tech/"> Clickhouse </a> </br>
+<a href="https://cube.dev/"> Cube Analytical API Platform </a>
 </p>
